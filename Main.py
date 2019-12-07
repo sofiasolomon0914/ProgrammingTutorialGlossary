@@ -58,7 +58,24 @@ my_dictionary = {
     'secondary memory': 'Stores programs and data and retains its information even when its power is turned off.'
     ' Generally slower than the main memory. Examples of secondary include disk drives and flash memory in USB sticks.',
     'semantics': 'The meaning of a program.', 'semantic error': 'An error in a program tat makes it do something other'
-    ' than what the programmer intended.', 'source code': 'A program in a high-level language.'
+    ' than what the programmer intended.', 'source code': 'A program in a high-level language.', 'assignment':
+    'A statement that assigns a value to a variable.', 'comment': 'Information in a program that is meant for'
+    ' other programmers (or anyone reading the source code) and has no effect on the execution of the program.',
+    'concatenate': 'To join two operands end to end.',
+    'evaluate': 'To simplify an expression by performing the operations in order to yield a single value.',
+    'expression': 'A combination of variables, operators, and values that represents a single result value.',
+    'floating point': 'A type that represents numbers with fractional parts.',
+    'integer': 'A type that represents whole numbers.', 'keyword': 'A reserved word that is used by the'
+    ' compiler to parse a program; you cannot use keywords like if, def, and while as variable names.', 'mnemonic':
+    'A memory aid. We often give variables mnemonic names to hep us remember what is stored in the variable.',
+    'modulus operator': 'An operator, denoted with a percent sign (%), that works on integers and yields the remainder'
+    ' when one number is divided by another.', 'operand': 'One of the values on which an operator operates.',
+    'operator': 'A special symbol that represents a simple computation like addition, multiplication, or string'
+    ' concentration.', 'rules of precedence': 'The set of rules governing the order in which expressions involving'
+    ' multiple operators and operands are evaluated.', 'statement': 'A section of code that represents a command'
+    ' or action.', 'string': 'A type that represents sequences of characters.', 'type': ' A category of values.'
+    ' For example: type int, type float, and type str.', 'value': 'One of the basic units of data, like a number'
+    ' or string, that a program manipulates.', 'variable': 'A name that refers to a value.'
 }
 
 
