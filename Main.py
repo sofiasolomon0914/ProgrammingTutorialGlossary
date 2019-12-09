@@ -76,7 +76,8 @@ my_dictionary = {
     ' or action.', 'string': 'A type that represents sequences of characters.', 'type': ' A category of values.'
     ' For example: type int, type float, and type str.', 'value': 'One of the basic units of data, like a number'
     ' or string, that a program manipulates.', 'variable': 'A name that refers to a value.', 'body': 'The sequence of '
-    'statements within a compound statement.', 'boolean expression': 'An expression whose value is either True or'
+    'statements within a compound statement or inside a function definition.',
+    'boolean expression': 'An expression whose value is either True or'
     ' False.', 'branch': 'One of the alternative sequences of statements in a conditional statements.',
     'chained conditional': 'A conditional statement with a series of alternative branches.', 'comparison operator':
     'One of the operators that compares its operands: ==, !=, >, <, >=, and <=.', 'conditional statement': 'A statement'
@@ -90,8 +91,16 @@ my_dictionary = {
     'conditional statement.', 'traceback': 'A list of the functions that are executing, printed when an exception '
     'occurs.', 'short circuit': 'When Python is part-way through evaluating a logical expression and stops the '
     'evaluation because Python knows the final value for the expression without needing to evaluate the rest of the '
-    'expression.'
-
+    'expression.', 'algorithm': 'A general process for solving a category of problem.', 'argument': 'A value '
+    'provided to a function when the function is called. This value is assigned to the corresponding parameter '
+    'in the function.', 'composition': 'Using an expression as part of a larger expression, or a statement as part of '
+    'a larger statement.', 'deterministic': 'Pertaining to a program that does the same thing each time it runs, '
+    'given the same inputs.', 'dot notation': 'The syntax for calling a function in another module by '
+    'specifying the module name followed by a dot (period) and the function name.', 'flow of execution':
+    'The order in which statements are executed during a program run.', 'fruitful function': 'A function that returns '
+    'a value.', 'function': 'A names sequence of statements that performs some useful operation. Functions may or may '
+    'or may not produce a result.', 'function call': 'A statement that executes a function. It consists of the function'
+    ' name followed by an argument list.'
 }
 
 
